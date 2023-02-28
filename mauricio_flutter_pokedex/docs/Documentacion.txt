@@ -1,0 +1,4 @@
+1.- Ctr + Shift + P -> Create Proyect Flutter
+2.- Ctr + Shift + P -> Flutter Select Device
+3.- Presionar F5 para ejecutar
+4.-Modelo para App: https://dribbble.com/shots/6540871-Pokedex-App

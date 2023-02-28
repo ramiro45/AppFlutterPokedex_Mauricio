@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "mauricio_flutter_pokedex",
+            "cwd": "mauricio_flutter_pokedex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mauricio_flutter_pokedex (profile mode)",
+            "cwd": "mauricio_flutter_pokedex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mauricio_flutter_pokedex (release mode)",
+            "cwd": "mauricio_flutter_pokedex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

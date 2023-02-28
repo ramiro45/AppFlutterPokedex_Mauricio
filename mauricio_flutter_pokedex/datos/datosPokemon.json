@@ -1,0 +1,1363 @@
+{
+    "results": [
+      {
+        "pok_id": 1,
+        "pok_num": "001",
+        "pok_nom": "Bulbasaur",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.71 m",
+        "pok_peso": "6.9 kg"
+      },
+      {
+        "pok_id": 2,
+        "pok_num": "002",
+        "pok_nom": "Ivysaur",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.99 m",
+        "pok_peso": "13.0 kg"
+      },
+      {
+        "pok_id": 3,
+        "pok_num": "003",
+        "pok_nom": "Venusaur",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "2.01 m",
+        "pok_peso": "100.0 kg"
+      },
+      {
+        "pok_id": 4,
+        "pok_num": "004",
+        "pok_nom": "Charmander",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "0.61 m",
+        "pok_peso": "8.5 kg"
+      },
+      {
+        "pok_id": 5,
+        "pok_num": "005",
+        "pok_nom": "Charmeleon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.09 m",
+        "pok_peso": "19.0 kg"
+      },
+      {
+        "pok_id": 6,
+        "pok_num": "006",
+        "pok_nom": "Charizard",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.70 m",
+        "pok_peso": "90.5 kg"
+      },
+      {
+        "pok_id": 7,
+        "pok_num": "007",
+        "pok_nom": "Squirtle",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.51 m",
+        "pok_peso": "9.0 kg"
+      },
+      {
+        "pok_id": 8,
+        "pok_num": "008",
+        "pok_nom": "Wartortle",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.99 m",
+        "pok_peso": "22.5 kg"
+      },
+      {
+        "pok_id": 9,
+        "pok_num": "009",
+        "pok_nom": "Blastoise",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.60 m",
+        "pok_peso": "85.5 kg"
+      },
+      {
+        "pok_id": 10,
+        "pok_num": "010",
+        "pok_nom": "Caterpie",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.30 m",
+        "pok_peso": "2.9 kg"
+      },
+      {
+        "pok_id": 11,
+        "pok_num": "011",
+        "pok_nom": "Metapod",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.71 m",
+        "pok_peso": "9.9 kg"
+      },
+      {
+        "pok_id": 12,
+        "pok_num": "012",
+        "pok_nom": "Butterfree",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "1.09 m",
+        "pok_peso": "32.0 kg"
+      },
+      {
+        "pok_id": 13,
+        "pok_num": "013",
+        "pok_nom": "Weedle",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.30 m",
+        "pok_peso": "3.2 kg"
+      },
+      {
+        "pok_id": 14,
+        "pok_num": "014",
+        "pok_nom": "Kakuna",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.61 m",
+        "pok_peso": "10.0 kg"
+      },
+      {
+        "pok_id": 15,
+        "pok_num": "015",
+        "pok_nom": "Beedrill",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.99 m",
+        "pok_peso": "29.5 kg"
+      },
+      {
+        "pok_id": 16,
+        "pok_num": "016",
+        "pok_nom": "Pidgey",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.30 m",
+        "pok_peso": "1.8 kg"
+      },
+      {
+        "pok_id": 17,
+        "pok_num": "017",
+        "pok_nom": "Pidgeotto",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.09 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 18,
+        "pok_num": "018",
+        "pok_nom": "Pidgeot",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.50 m",
+        "pok_peso": "39.5 kg"
+      },
+      {
+        "pok_id": 19,
+        "pok_num": "019",
+        "pok_nom": "Rattata",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.30 m",
+        "pok_peso": "3.5 kg"
+      },
+      {
+        "pok_id": 20,
+        "pok_num": "020",
+        "pok_nom": "Raticate",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.71 m",
+        "pok_peso": "18.5 kg"
+      },
+      {
+        "pok_id": 21,
+        "pok_num": "021",
+        "pok_nom": "Spearow",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/021.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.30 m",
+        "pok_peso": "2.0 kg"
+      },
+      {
+        "pok_id": 22,
+        "pok_num": "022",
+        "pok_nom": "Fearow",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/022.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.19 m",
+        "pok_peso": "38.0 kg"
+      },
+      {
+        "pok_id": 23,
+        "pok_num": "023",
+        "pok_nom": "Ekans",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/023.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "2.01 m",
+        "pok_peso": "6.9 kg"
+      },
+      {
+        "pok_id": 24,
+        "pok_num": "024",
+        "pok_nom": "Arbok",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/024.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "3.51 m",
+        "pok_peso": "65.0 kg"
+      },
+      {
+        "pok_id": 25,
+        "pok_num": "025",
+        "pok_nom": "Pikachu",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.41 m",
+        "pok_peso": "6.0 kg"
+      },
+      {
+        "pok_id": 26,
+        "pok_num": "026",
+        "pok_nom": "Raichu",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/026.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.79 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 27,
+        "pok_num": "027",
+        "pok_nom": "Sandshrew",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/027.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.61 m",
+        "pok_peso": "12.0 kg"
+      },
+      {
+        "pok_id": 28,
+        "pok_num": "028",
+        "pok_nom": "Sandslash",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/028.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.99 m",
+        "pok_peso": "29.5 kg"
+      },
+      {
+        "pok_id": 29,
+        "pok_num": "029",
+        "pok_nom": "Nidoran â™€ (Female)",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/029.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.41 m",
+        "pok_peso": "7.0 kg"
+      },
+      {
+        "pok_id": 30,
+        "pok_num": "030",
+        "pok_nom": "Nidorina",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/030.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.79 m",
+        "pok_peso": "20.0 kg"
+      },
+      {
+        "pok_id": 31,
+        "pok_num": "031",
+        "pok_nom": "Nidoqueen",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/031.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "1.30 m",
+        "pok_peso": "60.0 kg"
+      },
+      {
+        "pok_id": 32,
+        "pok_num": "032",
+        "pok_nom": "Nidoran â™‚ (Male)",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/032.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.51 m",
+        "pok_peso": "9.0 kg"
+      },
+      {
+        "pok_id": 33,
+        "pok_num": "033",
+        "pok_nom": "Nidorino",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/033.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.89 m",
+        "pok_peso": "19.5 kg"
+      },
+      {
+        "pok_id": 34,
+        "pok_num": "034",
+        "pok_nom": "Nidoking",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/034.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "1.40 m",
+        "pok_peso": "62.0 kg"
+      },
+      {
+        "pok_id": 35,
+        "pok_num": "035",
+        "pok_nom": "Clefairy",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/035.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.61 m",
+        "pok_peso": "7.5 kg"
+      },
+      {
+        "pok_id": 36,
+        "pok_num": "036",
+        "pok_nom": "Clefable",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/036.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.30 m",
+        "pok_peso": "40.0 kg"
+      },
+      {
+        "pok_id": 37,
+        "pok_num": "037",
+        "pok_nom": "Vulpix",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/037.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "0.61 m",
+        "pok_peso": "9.9 kg"
+      },
+      {
+        "pok_id": 38,
+        "pok_num": "038",
+        "pok_nom": "Ninetales",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/038.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.09 m",
+        "pok_peso": "19.9 kg"
+      },
+      {
+        "pok_id": 39,
+        "pok_num": "039",
+        "pok_nom": "Jigglypuff",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/039.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.51 m",
+        "pok_peso": "5.5 kg"
+      },
+      {
+        "pok_id": 40,
+        "pok_num": "040",
+        "pok_nom": "Wigglytuff",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/040.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.99 m",
+        "pok_peso": "12.0 kg"
+      },
+      {
+        "pok_id": 41,
+        "pok_num": "041",
+        "pok_nom": "Zubat",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/041.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.79 m",
+        "pok_peso": "7.5 kg"
+      },
+      {
+        "pok_id": 42,
+        "pok_num": "042",
+        "pok_nom": "Golbat",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/042.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "1.60 m",
+        "pok_peso": "55.0 kg"
+      },
+      {
+        "pok_id": 43,
+        "pok_num": "043",
+        "pok_nom": "Oddish",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/043.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.51 m",
+        "pok_peso": "5.4 kg"
+      },
+      {
+        "pok_id": 44,
+        "pok_num": "044",
+        "pok_nom": "Gloom",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/044.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.79 m",
+        "pok_peso": "8.6 kg"
+      },
+      {
+        "pok_id": 45,
+        "pok_num": "045",
+        "pok_nom": "Vileplume",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/045.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "1.19 m",
+        "pok_peso": "18.6 kg"
+      },
+      {
+        "pok_id": 46,
+        "pok_num": "046",
+        "pok_nom": "Paras",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.30 m",
+        "pok_peso": "5.4 kg"
+      },
+      {
+        "pok_id": 47,
+        "pok_num": "047",
+        "pok_nom": "Parasect",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.99 m",
+        "pok_peso": "29.5 kg"
+      },
+      {
+        "pok_id": 48,
+        "pok_num": "048",
+        "pok_nom": "Venonat",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "0.99 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 49,
+        "pok_num": "049",
+        "pok_nom": "Venomoth",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "1.50 m",
+        "pok_peso": "12.5 kg"
+      },
+      {
+        "pok_id": 50,
+        "pok_num": "050",
+        "pok_nom": "Diglett",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.20 m",
+        "pok_peso": "0.8 kg"
+      },
+      {
+        "pok_id": 51,
+        "pok_num": "051",
+        "pok_nom": "Dugtrio",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.71 m",
+        "pok_peso": "33.3 kg"
+      },
+      {
+        "pok_id": 52,
+        "pok_num": "052",
+        "pok_nom": "Meowth",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/052.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.41 m",
+        "pok_peso": "4.2 kg"
+      },
+      {
+        "pok_id": 53,
+        "pok_num": "053",
+        "pok_nom": "Persian",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/053.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.99 m",
+        "pok_peso": "32.0 kg"
+      },
+      {
+        "pok_id": 54,
+        "pok_num": "054",
+        "pok_nom": "Psyduck",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/054.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.79 m",
+        "pok_peso": "19.6 kg"
+      },
+      {
+        "pok_id": 55,
+        "pok_num": "055",
+        "pok_nom": "Golduck",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/055.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.70 m",
+        "pok_peso": "76.6 kg"
+      },
+      {
+        "pok_id": 56,
+        "pok_num": "056",
+        "pok_nom": "Mankey",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "0.51 m",
+        "pok_peso": "28.0 kg"
+      },
+      {
+        "pok_id": 57,
+        "pok_num": "057",
+        "pok_nom": "Primeape",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "0.99 m",
+        "pok_peso": "32.0 kg"
+      },
+      {
+        "pok_id": 58,
+        "pok_num": "058",
+        "pok_nom": "Growlithe",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "0.71 m",
+        "pok_peso": "19.0 kg"
+      },
+      {
+        "pok_id": 59,
+        "pok_num": "059",
+        "pok_nom": "Arcanine",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.91 m",
+        "pok_peso": "155.0 kg"
+      },
+      {
+        "pok_id": 60,
+        "pok_num": "060",
+        "pok_nom": "Poliwag",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/060.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.61 m",
+        "pok_peso": "12.4 kg"
+      },
+      {
+        "pok_id": 61,
+        "pok_num": "061",
+        "pok_nom": "Poliwhirl",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/061.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.99 m",
+        "pok_peso": "20.0 kg"
+      },
+      {
+        "pok_id": 62,
+        "pok_num": "062",
+        "pok_nom": "Poliwrath",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.30 m",
+        "pok_peso": "54.0 kg"
+      },
+      {
+        "pok_id": 63,
+        "pok_num": "063",
+        "pok_nom": "Abra",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/063.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "0.89 m",
+        "pok_peso": "19.5 kg"
+      },
+      {
+        "pok_id": 64,
+        "pok_num": "064",
+        "pok_nom": "Kadabra",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "1.30 m",
+        "pok_peso": "56.5 kg"
+      },
+      {
+        "pok_id": 65,
+        "pok_num": "065",
+        "pok_nom": "Alakazam",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/065.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "1.50 m",
+        "pok_peso": "48.0 kg"
+      },
+      {
+        "pok_id": 66,
+        "pok_num": "066",
+        "pok_nom": "Machop",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "0.79 m",
+        "pok_peso": "19.5 kg"
+      },
+      {
+        "pok_id": 67,
+        "pok_num": "067",
+        "pok_nom": "Machoke",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "1.50 m",
+        "pok_peso": "70.5 kg"
+      },
+      {
+        "pok_id": 68,
+        "pok_num": "068",
+        "pok_nom": "Machamp",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "1.60 m",
+        "pok_peso": "130.0 kg"
+      },
+      {
+        "pok_id": 69,
+        "pok_num": "069",
+        "pok_nom": "Bellsprout",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.71 m",
+        "pok_peso": "4.0 kg"
+      },
+      {
+        "pok_id": 70,
+        "pok_num": "070",
+        "pok_nom": "Weepinbell",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/070.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.99 m",
+        "pok_peso": "6.4 kg"
+      },
+      {
+        "pok_id": 71,
+        "pok_num": "071",
+        "pok_nom": "Victreebel",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/071.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "1.70 m",
+        "pok_peso": "15.5 kg"
+      },
+      {
+        "pok_id": 72,
+        "pok_num": "072",
+        "pok_nom": "Tentacool",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/072.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.89 m",
+        "pok_peso": "45.5 kg"
+      },
+      {
+        "pok_id": 73,
+        "pok_num": "073",
+        "pok_nom": "Tentacruel",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/073.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.60 m",
+        "pok_peso": "55.0 kg"
+      },
+      {
+        "pok_id": 74,
+        "pok_num": "074",
+        "pok_nom": "Geodude",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/074.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "0.41 m",
+        "pok_peso": "20.0 kg"
+      },
+      {
+        "pok_id": 75,
+        "pok_num": "075",
+        "pok_nom": "Graveler",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/075.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "0.99 m",
+        "pok_peso": "105.0 kg"
+      },
+      {
+        "pok_id": 76,
+        "pok_num": "076",
+        "pok_nom": "Golem",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "1.40 m",
+        "pok_peso": "300.0 kg"
+      },
+      {
+        "pok_id": 77,
+        "pok_num": "077",
+        "pok_nom": "Ponyta",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "0.99 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 78,
+        "pok_num": "078",
+        "pok_nom": "Rapidash",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.70 m",
+        "pok_peso": "95.0 kg"
+      },
+      {
+        "pok_id": 79,
+        "pok_num": "079",
+        "pok_nom": "Slowpoke",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/079.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.19 m",
+        "pok_peso": "36.0 kg"
+      },
+      {
+        "pok_id": 80,
+        "pok_num": "080",
+        "pok_nom": "Slowbro",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/080.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.60 m",
+        "pok_peso": "78.5 kg"
+      },
+      {
+        "pok_id": 81,
+        "pok_num": "081",
+        "pok_nom": "Magnemite",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/081.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.30 m",
+        "pok_peso": "6.0 kg"
+      },
+      {
+        "pok_id": 82,
+        "pok_num": "082",
+        "pok_nom": "Magneton",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/082.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.99 m",
+        "pok_peso": "60.0 kg"
+      },
+      {
+        "pok_id": 83,
+        "pok_num": "083",
+        "pok_nom": "Farfetch'd",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/083.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.79 m",
+        "pok_peso": "15.0 kg"
+      },
+      {
+        "pok_id": 84,
+        "pok_num": "084",
+        "pok_nom": "Doduo",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/084.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.40 m",
+        "pok_peso": "39.2 kg"
+      },
+      {
+        "pok_id": 85,
+        "pok_num": "085",
+        "pok_nom": "Dodrio",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/085.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.80 m",
+        "pok_peso": "85.2 kg"
+      },
+      {
+        "pok_id": 86,
+        "pok_num": "086",
+        "pok_nom": "Seel",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/086.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.09 m",
+        "pok_peso": "90.0 kg"
+      },
+      {
+        "pok_id": 87,
+        "pok_num": "087",
+        "pok_nom": "Dewgong",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/087.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.70 m",
+        "pok_peso": "120.0 kg"
+      },
+      {
+        "pok_id": 88,
+        "pok_num": "088",
+        "pok_nom": "Grimer",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/088.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.89 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 89,
+        "pok_num": "089",
+        "pok_nom": "Muk",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/089.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "1.19 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 90,
+        "pok_num": "090",
+        "pok_nom": "Shellder",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/090.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.30 m",
+        "pok_peso": "4.0 kg"
+      },
+      {
+        "pok_id": 91,
+        "pok_num": "091",
+        "pok_nom": "Cloyster",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/091.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.50 m",
+        "pok_peso": "132.5 kg"
+      },
+      {
+        "pok_id": 92,
+        "pok_num": "092",
+        "pok_nom": "Gastly",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/092.png",
+        "pok_tipo": "Ghost",
+        "pok_altura": "1.30 m",
+        "pok_peso": "0.1 kg"
+      },
+      {
+        "pok_id": 93,
+        "pok_num": "093",
+        "pok_nom": "Haunter",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+        "pok_tipo": "Ghost",
+        "pok_altura": "1.60 m",
+        "pok_peso": "0.1 kg"
+      },
+      {
+        "pok_id": 94,
+        "pok_num": "094",
+        "pok_nom": "Gengar",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/094.png",
+        "pok_tipo": "Ghost",
+        "pok_altura": "1.50 m",
+        "pok_peso": "40.5 kg"
+      },
+      {
+        "pok_id": 95,
+        "pok_num": "095",
+        "pok_nom": "Onix",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/095.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "8.79 m",
+        "pok_peso": "210.0 kg"
+      },
+      {
+        "pok_id": 96,
+        "pok_num": "096",
+        "pok_nom": "Drowzee",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/096.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "0.99 m",
+        "pok_peso": "32.4 kg"
+      },
+      {
+        "pok_id": 97,
+        "pok_num": "097",
+        "pok_nom": "Hypno",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/097.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "1.60 m",
+        "pok_peso": "75.6 kg"
+      },
+      {
+        "pok_id": 98,
+        "pok_num": "098",
+        "pok_nom": "Krabby",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/098.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.41 m",
+        "pok_peso": "6.5 kg"
+      },
+      {
+        "pok_id": 99,
+        "pok_num": "099",
+        "pok_nom": "Kingler",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/099.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.30 m",
+        "pok_peso": "60.0 kg"
+      },
+      {
+        "pok_id": 100,
+        "pok_num": "100",
+        "pok_nom": "Voltorb",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/100.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.51 m",
+        "pok_peso": "10.4 kg"
+      },
+      {
+        "pok_id": 101,
+        "pok_num": "101",
+        "pok_nom": "Electrode",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/101.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "1.19 m",
+        "pok_peso": "66.6 kg"
+      },
+      {
+        "pok_id": 102,
+        "pok_num": "102",
+        "pok_nom": "Exeggcute",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/102.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.41 m",
+        "pok_peso": "2.5 kg"
+      },
+      {
+        "pok_id": 103,
+        "pok_num": "103",
+        "pok_nom": "Exeggutor",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/103.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "2.01 m",
+        "pok_peso": "120.0 kg"
+      },
+      {
+        "pok_id": 104,
+        "pok_num": "104",
+        "pok_nom": "Cubone",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/104.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.41 m",
+        "pok_peso": "6.5 kg"
+      },
+      {
+        "pok_id": 105,
+        "pok_num": "105",
+        "pok_nom": "Marowak",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/105.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.99 m",
+        "pok_peso": "45.0 kg"
+      },
+      {
+        "pok_id": 106,
+        "pok_num": "106",
+        "pok_nom": "Hitmonlee",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/106.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "1.50 m",
+        "pok_peso": "49.8 kg"
+      },
+      {
+        "pok_id": 107,
+        "pok_num": "107",
+        "pok_nom": "Hitmonchan",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/107.png",
+        "pok_tipo": "Fighting",
+        "pok_altura": "1.40 m",
+        "pok_peso": "50.2 kg"
+      },
+      {
+        "pok_id": 108,
+        "pok_num": "108",
+        "pok_nom": "Lickitung",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/108.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.19 m",
+        "pok_peso": "65.5 kg"
+      },
+      {
+        "pok_id": 109,
+        "pok_num": "109",
+        "pok_nom": "Koffing",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/109.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "0.61 m",
+        "pok_peso": "1.0 kg"
+      },
+      {
+        "pok_id": 110,
+        "pok_num": "110",
+        "pok_nom": "Weezing",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/110.png",
+        "pok_tipo": "Poison",
+        "pok_altura": "1.19 m",
+        "pok_peso": "9.5 kg"
+      },
+      {
+        "pok_id": 111,
+        "pok_num": "111",
+        "pok_nom": "Rhyhorn",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "0.99 m",
+        "pok_peso": "115.0 kg"
+      },
+      {
+        "pok_id": 112,
+        "pok_num": "112",
+        "pok_nom": "Rhydon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/112.png",
+        "pok_tipo": "Ground",
+        "pok_altura": "1.91 m",
+        "pok_peso": "120.0 kg"
+      },
+      {
+        "pok_id": 113,
+        "pok_num": "113",
+        "pok_nom": "Chansey",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/113.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.09 m",
+        "pok_peso": "34.6 kg"
+      },
+      {
+        "pok_id": 114,
+        "pok_num": "114",
+        "pok_nom": "Tangela",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/114.png",
+        "pok_tipo": "Grass",
+        "pok_altura": "0.99 m",
+        "pok_peso": "35.0 kg"
+      },
+      {
+        "pok_id": 115,
+        "pok_num": "115",
+        "pok_nom": "Kangaskhan",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/115.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "2.21 m",
+        "pok_peso": "80.0 kg"
+      },
+      {
+        "pok_id": 116,
+        "pok_num": "116",
+        "pok_nom": "Horsea",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/116.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.41 m",
+        "pok_peso": "8.0 kg"
+      },
+      {
+        "pok_id": 117,
+        "pok_num": "117",
+        "pok_nom": "Seadra",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/117.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.19 m",
+        "pok_peso": "25.0 kg"
+      },
+      {
+        "pok_id": 118,
+        "pok_num": "118",
+        "pok_nom": "Goldeen",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/118.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.61 m",
+        "pok_peso": "15.0 kg"
+      },
+      {
+        "pok_id": 119,
+        "pok_num": "119",
+        "pok_nom": "Seaking",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/119.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.30 m",
+        "pok_peso": "39.0 kg"
+      },
+      {
+        "pok_id": 120,
+        "pok_num": "120",
+        "pok_nom": "Staryu",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/120.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.79 m",
+        "pok_peso": "34.5 kg"
+      },
+      {
+        "pok_id": 121,
+        "pok_num": "121",
+        "pok_nom": "Starmie",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/121.png",
+        "pok_tipo": "Water",
+        "pok_altura": "1.09 m",
+        "pok_peso": "80.0 kg"
+      },
+      {
+        "pok_id": 122,
+        "pok_num": "122",
+        "pok_nom": "Mr. Mime",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/122.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "1.30 m",
+        "pok_peso": "54.5 kg"
+      },
+      {
+        "pok_id": 123,
+        "pok_num": "123",
+        "pok_nom": "Scyther",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/123.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "1.50 m",
+        "pok_peso": "56.0 kg"
+      },
+      {
+        "pok_id": 124,
+        "pok_num": "124",
+        "pok_nom": "Jynx",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/124.png",
+        "pok_tipo": "Ice",
+        "pok_altura": "1.40 m",
+        "pok_peso": "40.6 kg"
+      },
+      {
+        "pok_id": 125,
+        "pok_num": "125",
+        "pok_nom": "Electabuzz",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/125.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "1.09 m",
+        "pok_peso": "30.0 kg"
+      },
+      {
+        "pok_id": 126,
+        "pok_num": "126",
+        "pok_nom": "Magmar",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/126.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "1.30 m",
+        "pok_peso": "44.5 kg"
+      },
+      {
+        "pok_id": 127,
+        "pok_num": "127",
+        "pok_nom": "Pinsir",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/127.png",
+        "pok_tipo": "Bug",
+        "pok_altura": "1.50 m",
+        "pok_peso": "55.0 kg"
+      },
+      {
+        "pok_id": 128,
+        "pok_num": "128",
+        "pok_nom": "Tauros",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/128.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "1.40 m",
+        "pok_peso": "88.4 kg"
+      },
+      {
+        "pok_id": 129,
+        "pok_num": "129",
+        "pok_nom": "Magikarp",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/129.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.89 m",
+        "pok_peso": "10.0 kg"
+      },
+      {
+        "pok_id": 130,
+        "pok_num": "130",
+        "pok_nom": "Gyarados",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/130.png",
+        "pok_tipo": "Water",
+        "pok_altura": "6.50 m",
+        "pok_peso": "235.0 kg"
+      },
+      {
+        "pok_id": 131,
+        "pok_num": "131",
+        "pok_nom": "Lapras",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/131.png",
+        "pok_tipo": "Water",
+        "pok_altura": "2.49 m",
+        "pok_peso": "220.0 kg"
+      },
+      {
+        "pok_id": 132,
+        "pok_num": "132",
+        "pok_nom": "Ditto",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/132.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.30 m",
+        "pok_peso": "4.0 kg"
+      },
+      {
+        "pok_id": 133,
+        "pok_num": "133",
+        "pok_nom": "Eevee",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/133.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.30 m",
+        "pok_peso": "6.5 kg"
+      },
+      {
+        "pok_id": 134,
+        "pok_num": "134",
+        "pok_nom": "Vaporeon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/134.png",
+        "pok_tipo": "Water",
+        "pok_altura": "0.99 m",
+        "pok_peso": "29.0 kg"
+      },
+      {
+        "pok_id": 135,
+        "pok_num": "135",
+        "pok_nom": "Jolteon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/135.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "0.79 m",
+        "pok_peso": "24.5 kg"
+      },
+      {
+        "pok_id": 136,
+        "pok_num": "136",
+        "pok_nom": "Flareon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/136.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "0.89 m",
+        "pok_peso": "25.0 kg"
+      },
+      {
+        "pok_id": 137,
+        "pok_num": "137",
+        "pok_nom": "Porygon",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/137.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "0.79 m",
+        "pok_peso": "36.5 kg"
+      },
+      {
+        "pok_id": 138,
+        "pok_num": "138",
+        "pok_nom": "Omanyte",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/138.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "0.41 m",
+        "pok_peso": "7.5 kg"
+      },
+      {
+        "pok_id": 139,
+        "pok_num": "139",
+        "pok_nom": "Omastar",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/139.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "0.99 m",
+        "pok_peso": "35.0 kg"
+      },
+      {
+        "pok_id": 140,
+        "pok_num": "140",
+        "pok_nom": "Kabuto",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/140.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "0.51 m",
+        "pok_peso": "11.5 kg"
+      },
+      {
+        "pok_id": 141,
+        "pok_num": "141",
+        "pok_nom": "Kabutops",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/141.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "1.30 m",
+        "pok_peso": "40.5 kg"
+      },
+      {
+        "pok_id": 142,
+        "pok_num": "142",
+        "pok_nom": "Aerodactyl",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/142.png",
+        "pok_tipo": "Rock",
+        "pok_altura": "1.80 m",
+        "pok_peso": "59.0 kg"
+      },
+      {
+        "pok_id": 143,
+        "pok_num": "143",
+        "pok_nom": "Snorlax",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/143.png",
+        "pok_tipo": "Normal",
+        "pok_altura": "2.11 m",
+        "pok_peso": "460.0 kg"
+      },
+      {
+        "pok_id": 144,
+        "pok_num": "144",
+        "pok_nom": "Articuno",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+        "pok_tipo": "Ice",
+        "pok_altura": "1.70 m",
+        "pok_peso": "55.4 kg"
+      },
+      {
+        "pok_id": 145,
+        "pok_num": "145",
+        "pok_nom": "Zapdos",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/145.png",
+        "pok_tipo": "Electric",
+        "pok_altura": "1.60 m",
+        "pok_peso": "52.6 kg"
+      },
+      {
+        "pok_id": 146,
+        "pok_num": "146",
+        "pok_nom": "Moltres",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/146.png",
+        "pok_tipo": "Fire",
+        "pok_altura": "2.01 m",
+        "pok_peso": "60.0 kg"
+      },
+      {
+        "pok_id": 147,
+        "pok_num": "147",
+        "pok_nom": "Dratini",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/147.png",
+        "pok_tipo": "Dragon",
+        "pok_altura": "1.80 m",
+        "pok_peso": "3.3 kg"
+      },
+      {
+        "pok_id": 148,
+        "pok_num": "148",
+        "pok_nom": "Dragonair",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/148.png",
+        "pok_tipo": "Dragon",
+        "pok_altura": "3.99 m",
+        "pok_peso": "16.5 kg"
+      },
+      {
+        "pok_id": 149,
+        "pok_num": "149",
+        "pok_nom": "Dragonite",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/149.png",
+        "pok_tipo": "Dragon",
+        "pok_altura": "2.21 m",
+        "pok_peso": "210.0 kg"
+      },
+      {
+        "pok_id": 150,
+        "pok_num": "150",
+        "pok_nom": "Mewtwo",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/150.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "2.01 m",
+        "pok_peso": "122.0 kg"
+      },
+      {
+        "pok_id": 151,
+        "pok_num": "151",
+        "pok_nom": "Mew",
+        "pok_img": "http://www.serebii.net/pokemongo/pokemon/151.png",
+        "pok_tipo": "Psychic",
+        "pok_altura": "0.41 m",
+        "pok_peso": "4.0 kg"
+      }
+    ]
+  }
